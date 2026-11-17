@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Christos 👋
 
-<!--
-**csemertzidis/csemertzidis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full stack developer based in Greece, working remotely at **[tool.gr](https://tool.gr)**.
 
-Here are some ideas to get you started:
+### What I do
+- 🔧 **Back-end:** PHP, APIs, databases, custom WordPress development
+- ⚡ **Front-end:** modern, fast interfaces with Vue / Nuxt
+- 🖥️ **Servers:** Linux, deployments, SSL, DNS
+- 🌍 Multilingual, SEO-focused websites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech
+`PHP` `MySQL` `WordPress` `JavaScript` `TypeScript` `Vue` `Nuxt` `Linux` `Git`
+
+### Contact
+📫 [LinkedIn](https://www.linkedin.com/in/semerc/) · ✉️ [christos.semertzidis@gmail.com](mailto:christos.semertzidis@gmail.com) · ✉️ [c@pwg.gr](mailto:c@pwg.gr)
